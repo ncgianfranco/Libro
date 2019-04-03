@@ -1,0 +1,4 @@
+El flujo de trabajo básico en:
+1- Hacer cambios en el repositlrio
+2- Añadir los cambios de la zona de la intercambio
+2- Hacer un commit de los cambios
